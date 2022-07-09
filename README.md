@@ -12,10 +12,6 @@ Lalu ketik command dibawah ini
 - php artisan migrate (migrasi database)
 - php artisan db:seed 
 
-## Login
-Email : rahmat@example.com
-Password : password
-
 ## Fitur
 # Front / Depan
 - Home (Halaman home,menampilkan artikel,pengumuman terbaru) 
