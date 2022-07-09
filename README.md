@@ -31,5 +31,3 @@ Password : password
 - Manage Pengumuman (CRUD)
 - Manage Kategori Artikel (CRUD)
 
-## Author
-- Rahmat Hidayatullah
